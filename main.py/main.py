@@ -38,3 +38,4 @@ def spider(url, depth, output):
 
 if __name__ == "__main__":
     cli()
+print("Testing push to GitHub!")  # Just added this
