@@ -24,11 +24,6 @@ python main.py --url https://example.com --depth 2
 🙌 Credits
 Built with ❤️ by kelvin0916-png
 
-yaml
-Copy
-Edit
-
----
 
 Do you want me to:
 1. Automatically upload this to your GitHub repo?
